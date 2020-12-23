@@ -201,7 +201,7 @@ def start(update: Update, context: CallbackContext):
                     [[
                         InlineKeyboardButton(
                             text="☑️ Add Saitama to your group",
-                            url="t.me/{}?startgroup=true".format(
+                            url="t.me/Shadow_xbot?startgroup=true".format(
                                 context.bot.username))
                     ],
                      [
